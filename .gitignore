@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Tool caches
+.ruff_cache/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data: the raw file is versioned (small, public); derived files are rebuilt by `make data`
+data/processed/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+*:Zone.Identifier
+
+# Secrets
+.env
+
+#Roadmap
+.roadmap/
