@@ -23,7 +23,7 @@
 - [x] Data dictionary
 - [x] Exploratory data analysis: data quality, confounding, prognostic factors, overlap ([`notebooks/01_eda.ipynb`](notebooks/01_eda.ipynb))
 - [x] Data cleaning module with tests (`make data`)
-- [ ] Known-truth simulator and cross-fitted AIPW, with tests
+- [x] Known-truth simulator and cross-fitted AIPW, with tests
 - [ ] DAG, propensity score, balance (SMD), IPW, g-computation
 - [ ] Coverage study on simulations
 - [ ] Double Machine Learning, including a non-linear simulation scenario
